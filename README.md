@@ -108,6 +108,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSex0dM5JgSxq0sAkdp9sdAOwwAgh3BAshu802hR
 The detailed report of all tasks is included in the repository.
 
  File: `report/Project_Report.pdf`
+ https://github.com/SuhasEmmadi-18/Digital-Literacy/blob/05f2593af5a0ccd899cc672840fc1e0e037bb217/DIGITAL%20LITERACY%20PROJECT%20REPORT.pdf
 
 
 
